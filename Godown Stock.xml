@@ -22,6 +22,11 @@ Godown Stock
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:Godown_Stock.My.Resources.Resources._interface">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Godown_Stock.My.Resources.Resources.BG1">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -52,7 +57,182 @@ Godown Stock
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_add_item_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_backup_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_data_protection_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_database_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_database_administrator_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_database_restore_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_document_in_folder_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_download_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_edit_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_hamburger_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_ledger_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_log_in_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_log_out_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_magnetic_card_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_plus_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_plus_501">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_print_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_purchase_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_purchase_50__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_purchase_50__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_report_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_report_50__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_report_50__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_report_card_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_reset_password_66">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_settings_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_skip_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_stock_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_stock_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_update_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.icons8_video_card_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.interface_15478914">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.key">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Godown_Stock.My.Resources.Resources.Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Godown_Stock.My.Resources.Resources.pngwing_com">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

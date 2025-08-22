@@ -1,0 +1,7 @@
+SQLServerType=True
+SQLServer=DESKTOP-O4CN1F7\KGM12
+SQLDBName=Stock
+LogoPanel=False
+BackupPath=D:\Backup\
+SQLUsername=sa
+SQLPassword=kgmsql
