@@ -1,7 +1,0 @@
-SQLServerType=
-SQLServer=
-SQLDBName=
-LogoPanel=
-BackupPath=
-SQLUsername=
-SQLPassword=
